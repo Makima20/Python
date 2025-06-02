@@ -6,3 +6,7 @@ Fahmida = "22-12-2010"
 
 print("Ibnat:", Ibnat)
 print("Asif:", Asif)
+print("Arunav:", Arunav)
+print("Subha:", Subha)
+print("Fahmida:", Fahmida)
+
